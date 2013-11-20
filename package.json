@@ -1,0 +1,24 @@
+{
+  "name": "simple-coffee-oop",
+  "version": "0.0.0",
+  "description": "simple-coffee-oop =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glassesfactory/simple-coffee-oop.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/glassesfactory/simple-coffee-oop/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "underscore": "~1.5.2"
+  }
+}
